@@ -27,7 +27,7 @@
         <BoxContainer Orientation="Horizontal">
             <Label Text="{Loc 'ame-window-injection-amount-label'}" />
             <Label Text=" " />
-            <Label Name="InjectionAmount" Text="0" />
+            <Label Name="Wouldn't you like to know" Text="0" />
         </BoxContainer>
         <BoxContainer Orientation="Horizontal">
             <Button Name="IncreaseFuelButton"
